@@ -26,7 +26,7 @@
          ~ stapler-plugin.version: The Stapler Maven plugin version required by the plugin.
     -->
 
-    <jersey.version>2.25.1</jersey.version>
+    <jersey.version>2.46</jersey.version>
   </properties>
 
   <name>Oracle Cloud Infrastructure Compute Classic Plugin</name>
